@@ -21,4 +21,4 @@ Graph Algorithms visualizer project which visualizes Different types of graph al
     - Kahn's Algorithm
 
 
-You can view the Live version on [Graph-Algorithms--Visualizer](https://hisham-maged10.github.io/path-finder/)
+You can view the Live version on [Graph-Algorithms--Visualizer](https://parth-kayal.github.io/Path_Finder/)
